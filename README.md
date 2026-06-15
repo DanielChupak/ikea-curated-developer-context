@@ -1,2 +1,0 @@
-# ikea
-IKEA POC
